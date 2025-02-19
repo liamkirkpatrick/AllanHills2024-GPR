@@ -1,0 +1,39 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Finder metadata files
+._*
+
+# macOS folder settings
+.Trashes
+.Spotlight-V100/
+.metadata_never_index
+
+# macOS disk image files
+.VolumeIcon.icns
+
+# macOS resource forks
+*.rsrc
+
+# macOS autosave and temporary files
+*~.swo
+*~.swp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+.history/
+.
+
